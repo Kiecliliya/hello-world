@@ -1,2 +1,5 @@
 # hello-world
-creating a repository
+
+Hi Humans!
+
+I am learning Python and R. 
